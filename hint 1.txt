@@ -1,0 +1,1 @@
+Nierozważny deweloper pozostawił widoczny komentarz w kodzie HTML strony, który zdecydowanie nie powinien się tam znaleźć.
