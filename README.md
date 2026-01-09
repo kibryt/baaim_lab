@@ -1,4 +1,4 @@
-### Przygotowanie do laboratorium
+# Przygotowanie do laboratorium
 
 Do wykonania laboratorium będziesz potrzebował konta na [PortSwigger](https://portswigger.net) oraz narzędzia [Burp Suite Community Edition](https://portswigger.net/burp/communitydownload)
 
@@ -23,14 +23,14 @@ Z wygenerowanego kodu, na potrzeby ćwiczeń trzeba wyodrębnić jedynie formula
 <meta name="referrer" content="no-referrer">
 ```
 
-### Ćwiczenia
+# Ćwiczenia
 
-##### [Lab 1](lab1 https://portswigger.net/web-security/csrf/lab-no-defenses:)
+#### [Lab 1](lab1 https://portswigger.net/web-security/csrf/lab-no-defenses:)
 
-##### [Lab 2](https://portswigger.net/web-security/csrf/bypassing-token-validation/lab-token-validation-depends-on-request-method)
+#### [Lab 2](https://portswigger.net/web-security/csrf/bypassing-token-validation/lab-token-validation-depends-on-request-method)
 
-##### [Lab 3](https://portswigger.net/web-security/csrf/bypassing-samesite-restrictions/lab-samesite-lax-bypass-via-method-override)
+#### [Lab 3](https://portswigger.net/web-security/csrf/bypassing-samesite-restrictions/lab-samesite-lax-bypass-via-method-override)
 
-##### [Lab 4](https://portswigger.net/web-security/csrf/bypassing-referer-based-defenses/lab-referer-validation-depends-on-header-being-present)
+#### [Lab 4](https://portswigger.net/web-security/csrf/bypassing-referer-based-defenses/lab-referer-validation-depends-on-header-being-present)
 
-##### [Lab 5](https://portswigger.net/web-security/csrf/bypassing-referer-based-defenses/lab-referer-validation-broken)
+#### [Lab 5](https://portswigger.net/web-security/csrf/bypassing-referer-based-defenses/lab-referer-validation-broken)
