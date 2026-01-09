@@ -1,1 +1,0 @@
-Strona (w teorii) sprawdza token CSRF dla żądań POST, a w dodatku używa SameSite=Lax, zatem trzeba wykorzystać metodę GET. 
