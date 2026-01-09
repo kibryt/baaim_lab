@@ -25,7 +25,7 @@ Z wygenerowanego kodu, na potrzeby ćwiczeń trzeba wyodrębnić jedynie formula
 
 # Ćwiczenia
 
-#### [Lab 1](lab1 https://portswigger.net/web-security/csrf/lab-no-defenses:)
+#### [Lab 1](https://portswigger.net/web-security/csrf/lab-no-defenses)
 
 #### [Lab 2](https://portswigger.net/web-security/csrf/bypassing-token-validation/lab-token-validation-depends-on-request-method)
 
