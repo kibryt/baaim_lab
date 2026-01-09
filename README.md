@@ -23,6 +23,10 @@ Z wygenerowanego kodu, na potrzeby ćwiczeń trzeba wyodrębnić jedynie formula
 <meta name="referrer" content="no-referrer">
 ```
 
+```javascript
+history.pushState("", "", "/?")
+```
+
 # Ćwiczenia
 
 #### [Lab 1](https://portswigger.net/web-security/csrf/lab-no-defenses)
