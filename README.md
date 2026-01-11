@@ -71,6 +71,7 @@ history.pushState("", "", "/?")
 	Ponownie przechwyć żądanie POST /change-email i spróbuj zmienić metodę żądania 
 </details>
 
+<details>
 <summary>Podpowiedź 3</summary>
 	Skoro aplikacja nie akceptuje żądań GET, to spróbuj nadpisać metodę
 </details>
