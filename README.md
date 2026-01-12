@@ -2,7 +2,7 @@
 
 Do wykonania laboratorium będziesz potrzebował konta na [PortSwigger](https://portswigger.net) oraz narzędzia [Burp Suite Community Edition](https://portswigger.net/burp/communitydownload).
 
-##  Instrucja instalacji i użycia Burp Suite Community Edition
+##  Instrukcja instalacji i użycia Burp Suite Community Edition
 
 1. Pobierz i zainstaluj [Burp Suite Community Edition](https://portswigger.net/burp/communitydownload).
 
