@@ -88,6 +88,9 @@ history.pushState("", "", "/?")
 </details>
 
 #### [Lab 5 - bypassing referer based defenses](https://portswigger.net/web-security/csrf/bypassing-referer-based-defenses/lab-referer-validation-broken)
+
+W nagłówku payload'u trzeba umieścić `Referrer-Policy: unsafe-url`
+
 <details>
 <summary>Podpowiedź 1</summary>
 	Tak samo przechwyć żądanie ze zmiany adresu email i przeanalizuj zachowanie aplikacji przy zmianie nagłówka Referer, zauważ, że dodając adres oryginalnej strony jako parametr żądanie jest w naiwny sposób akceptowane
